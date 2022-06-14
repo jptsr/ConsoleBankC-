@@ -1,0 +1,15 @@
+D:\Documents\BeCode\SummerPastures\consoleBankCsharp\ConsoleBank\obj\Debug\net6.0\ConsoleBank.csproj.AssemblyReference.cache
+D:\Documents\BeCode\SummerPastures\consoleBankCsharp\ConsoleBank\obj\Debug\net6.0\ConsoleBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\BeCode\SummerPastures\consoleBankCsharp\ConsoleBank\obj\Debug\net6.0\ConsoleBank.AssemblyInfoInputs.cache
+D:\Documents\BeCode\SummerPastures\consoleBankCsharp\ConsoleBank\obj\Debug\net6.0\ConsoleBank.AssemblyInfo.cs
+D:\Documents\BeCode\SummerPastures\consoleBankCsharp\ConsoleBank\obj\Debug\net6.0\ConsoleBank.csproj.CoreCompileInputs.cache
+D:\Documents\BeCode\SummerPastures\consoleBankCsharp\ConsoleBank\bin\Debug\net6.0\ConsoleBank.exe
+D:\Documents\BeCode\SummerPastures\consoleBankCsharp\ConsoleBank\bin\Debug\net6.0\ConsoleBank.deps.json
+D:\Documents\BeCode\SummerPastures\consoleBankCsharp\ConsoleBank\bin\Debug\net6.0\ConsoleBank.runtimeconfig.json
+D:\Documents\BeCode\SummerPastures\consoleBankCsharp\ConsoleBank\bin\Debug\net6.0\ConsoleBank.dll
+D:\Documents\BeCode\SummerPastures\consoleBankCsharp\ConsoleBank\bin\Debug\net6.0\ConsoleBank.pdb
+D:\Documents\BeCode\SummerPastures\consoleBankCsharp\ConsoleBank\obj\Debug\net6.0\ConsoleBank.dll
+D:\Documents\BeCode\SummerPastures\consoleBankCsharp\ConsoleBank\obj\Debug\net6.0\refint\ConsoleBank.dll
+D:\Documents\BeCode\SummerPastures\consoleBankCsharp\ConsoleBank\obj\Debug\net6.0\ConsoleBank.pdb
+D:\Documents\BeCode\SummerPastures\consoleBankCsharp\ConsoleBank\obj\Debug\net6.0\ConsoleBank.genruntimeconfig.cache
+D:\Documents\BeCode\SummerPastures\consoleBankCsharp\ConsoleBank\obj\Debug\net6.0\ref\ConsoleBank.dll
